@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "20.11.0",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.24.0"
+    },
+    "version": "1.20.0",
+    "libraryName": "app-launcher",
+    "libraryId": "5da41b24-a1a5-4025-91c4-1ba88d6c5108",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "app-launcher",
+    "solutionShortDescription": "app-launcher description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
